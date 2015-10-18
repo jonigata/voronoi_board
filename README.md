@@ -1,0 +1,1 @@
+fortune voronoi algorithmを利用したネットワーク上のゲームボードを作るプログラム
